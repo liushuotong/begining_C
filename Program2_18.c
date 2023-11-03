@@ -6,9 +6,7 @@ int main(void)
 {
   long shorty = 0L;                         // Shorty's height in inches
   long lofty = 0L;                          // Lofty's height in inches
-  long feet = 0L;
-  long inches = 0L;
-  long shorty_to_lofty = 0L;                // Distance from Shorty to Lofty in inches
+  long inches，shorty_to_lofty = 0L;                // Distance from Shorty to Lofty in inches
   long lofty_to_tree = 0L;                  // Distance from Lofty to the tree in inches
   long tree_height = 0L;                    // Height of the tree in inches
   const long inches_per_foot = 12L;
